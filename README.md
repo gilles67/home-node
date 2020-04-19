@@ -10,6 +10,8 @@ Small version of Home node case with 2 support for SSD M.2 2280
 ![demo-hepta-one](/heptaone/demo/demo.png)
 
 #### Parts
+Description | Picture
+----------- | -------
 Base | ![demo-hepta-one](/heptaone/base/base.png)
 Hat | ![demo-hepta-one](/heptaone/base/hat.png)
 Raspberry 4b Holder | ![demo-hepta-one](/heptaone/holder/rpi4/rpi4b-holder.png)
